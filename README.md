@@ -1,1 +1,1 @@
-# extracting-and-visualizing-stock-data-main
+# extracting-and-visualizing-stock-data
